@@ -65,7 +65,7 @@ The `Loan_approval_prediction.ipynb` notebook is structured as follows:
 ## Usage
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/varunyaradoni/Loan_approval_prediction>
    cd <repository-directory>
    ```
 2. **Prepare the Dataset**:
